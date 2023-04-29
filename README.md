@@ -1,2 +1,1 @@
-# odin-form
-Simple sign-up form project from the odin project roadmap
+Replaced with [https://github.com/mateusmeloxyz/sign-up-form](https://github.com/mateusmeloxyz/sign-up-form)
